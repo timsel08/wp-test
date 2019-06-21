@@ -1,4 +1,5 @@
 wp resolusi
-- konsisten belajar membuaut web
+- konsisten belajar membuat web
+- belajar database
 - ikuti pembelajaran di wpu@sandika galih
-- ikut forum diskusi
+- ikut forum diskusi mengenai pembuatan web 
